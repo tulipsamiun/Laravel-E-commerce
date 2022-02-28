@@ -27,6 +27,28 @@
     .custom-login{
         height: 500px;
         padding-top: 100px;
-    }}
+    }
+    img.slider-img{
+        height: 400px !important
+    }
+    .custom-prduct{
+        height: 600px;
+    }
+    .colortxt{
+        color: #B8B8B8;
+    }
+    .tranding-item{
+        float:left;
+        width:20%;
+    }
+    .tranding-img{
+        height: 100px;
+    }
+    .tranding-wrapper{
+        margin: 30px;
+    }
+    .detail-img{
+        height: 200px;
+    }
 </style>
 </html>
