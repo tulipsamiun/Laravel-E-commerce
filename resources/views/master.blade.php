@@ -50,5 +50,16 @@
     .detail-img{
         height: 200px;
     }
+    .cart-item {
+        border-bottom: 1px solid #ccc;
+        margin-bottom :  20px;
+        padding-bottom: 20px;
+    }
+    .btnCartList {
+       padding-top: 20px; 
+    }
+    .orderNow{
+        float: right;
+    }
 </style>
 </html>
